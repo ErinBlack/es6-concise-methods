@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ErinBlack/es6-concise-methods/issues"
   },
-  "homepage": "https://github.com/ErinBlack/es6-concise-methods#readme"
+  "homepage": "https://github.com/ErinBlack/es6-concise-methods#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
